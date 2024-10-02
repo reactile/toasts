@@ -1,0 +1,18 @@
+{
+    "name": "reactile/toasts",
+    "description": "add easily toasts to your inertia && react apps",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Reactile\\Toasts\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "charrafi mohamed",
+            "email": "charrafimohamed27@gmail.com"
+        }
+    ],
+    "require": {}
+}
